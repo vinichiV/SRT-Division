@@ -1,13 +1,13 @@
 module radix4_srt_divider (
     input  wire        clk,
     input  wire        rst_n,
-    input  wire        start,          
-    input  wire [31:0] dividend_N,     
-    input  wire [31:0] divisor_D,      
+    input  wire        start,
+    input  wire [31:0] dividend_N,
+    input  wire [31:0] divisor_D,
 
-    output reg  [31:0] Q_final,        
-    output reg  [31:0] R_final,        
-    output reg         valid           
+    output reg  [31:0] Q_final,
+    output reg  [31:0] R_final,
+    output reg         valid
 );
 
     // =================================================================

@@ -3,10 +3,7 @@
 
 ---
 
-## 🚀 How to Run the Simulation
-
-### Prerequisite
-- **QuestaSim** installed (with UVM support)
+## 🚀 How to Run the Simulation with QuestaSim
 
 ### Steps
 

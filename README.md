@@ -14,5 +14,6 @@ cd SRT-Division
 
 vsim -do run.do
 ```
-<img width="960" height="1229" alt="SRT" src="https://github.com/user-attachments/assets/4f1f2ea7-6d01-4a4e-bc0b-a4557c880096" />
+<img width="960" height="1229" alt="SRT" src="https://github.com/user-attachments/assets/f6b5bffa-edb0-4a3a-8b0b-5fbbe6704748" />
+
 
